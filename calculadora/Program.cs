@@ -8,5 +8,10 @@ namespace calculadora
         {
             Console.WriteLine("Hello World!");
         }
+
+        static int Soma(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
