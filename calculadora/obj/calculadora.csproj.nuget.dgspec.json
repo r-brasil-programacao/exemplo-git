@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\meusprojetos\\calculadora\\calculadora.csproj": {}
+    "C:\\meusprojetos\\exemplo-git\\calculadora\\calculadora.csproj": {}
   },
   "projects": {
-    "C:\\meusprojetos\\calculadora\\calculadora.csproj": {
+    "C:\\meusprojetos\\exemplo-git\\calculadora\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\meusprojetos\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "C:\\meusprojetos\\exemplo-git\\calculadora\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "C:\\meusprojetos\\calculadora\\calculadora.csproj",
+        "projectPath": "C:\\meusprojetos\\exemplo-git\\calculadora\\calculadora.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\meusprojetos\\calculadora\\obj\\",
+        "outputPath": "C:\\meusprojetos\\exemplo-git\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

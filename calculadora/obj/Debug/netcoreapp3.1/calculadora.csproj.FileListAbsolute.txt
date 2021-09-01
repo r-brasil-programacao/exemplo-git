@@ -1,0 +1,13 @@
+C:\meusprojetos\exemplo-git\calculadora\bin\Debug\netcoreapp3.1\calculadora.exe
+C:\meusprojetos\exemplo-git\calculadora\bin\Debug\netcoreapp3.1\calculadora.deps.json
+C:\meusprojetos\exemplo-git\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.json
+C:\meusprojetos\exemplo-git\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.dev.json
+C:\meusprojetos\exemplo-git\calculadora\bin\Debug\netcoreapp3.1\calculadora.dll
+C:\meusprojetos\exemplo-git\calculadora\bin\Debug\netcoreapp3.1\calculadora.pdb
+C:\meusprojetos\exemplo-git\calculadora\obj\Debug\netcoreapp3.1\calculadora.csprojAssemblyReference.cache
+C:\meusprojetos\exemplo-git\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfoInputs.cache
+C:\meusprojetos\exemplo-git\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfo.cs
+C:\meusprojetos\exemplo-git\calculadora\obj\Debug\netcoreapp3.1\calculadora.csproj.CoreCompileInputs.cache
+C:\meusprojetos\exemplo-git\calculadora\obj\Debug\netcoreapp3.1\calculadora.dll
+C:\meusprojetos\exemplo-git\calculadora\obj\Debug\netcoreapp3.1\calculadora.pdb
+C:\meusprojetos\exemplo-git\calculadora\obj\Debug\netcoreapp3.1\calculadora.genruntimeconfig.cache
